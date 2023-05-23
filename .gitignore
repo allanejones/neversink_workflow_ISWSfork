@@ -138,3 +138,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Arc Extension
+*.lock
+
+# temp files
+*/tmp/
+
+
+
